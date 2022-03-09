@@ -1,1 +1,5 @@
 datasets/*.csv
+notebooks/.ipynb_checkpoints/*
+notebooks/*.pkl
+notebooks/*.ckpt
+notebooks/lightning_logs/*
